@@ -1,2 +1,3 @@
 # magento2-theme-base
-base theme for future builds
+
+This theme will be inherited by all future theme builds.
